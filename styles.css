@@ -1,0 +1,13 @@
+h1 {
+    font-family: "Papyrus";
+    color: blue;
+    text-align: center;
+    background-color: aqua;
+}
+
+.tasks {
+    text-decoration: underline;
+}
+#priority-1 {
+    color:red
+}
